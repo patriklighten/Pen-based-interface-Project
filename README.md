@@ -1,2 +1,2 @@
 # Pen-based-interface-Project
-Synthesizing Sketched Diagrams for Natural Images Using Semantic Constraints 
+Here is my wonderful final project for the class pen based interface,"Synthesizing Sketched Diagrams for Natural Images Using Semantic Constraints". 
